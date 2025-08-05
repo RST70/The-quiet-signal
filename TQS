@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #111;
+  color: #eee;
+  margin: 0;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #fffc;
+}
+
+a {
+  color: #8ab4f8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  color: #ccc;
+}
+
+blockquote {
+  border-left: 3px solid #444;
+  margin-left: 0;
+  padding-left: 1em;
+  font-style: italic;
+  color: #aaa;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin: 2rem 0;
+}
